@@ -314,8 +314,8 @@ footer {
 
 /* for all social containers*/
 .socialContainer {
-    width: 52px;
-    height: 52px;
+    width: 48px;
+    height: 48px;
     background-color: rgb(44, 44, 44);
     border-radius: 50%;
     display: flex;
